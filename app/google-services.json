@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189160383566",
+    "project_id": "find-job-ff06d",
+    "storage_bucket": "find-job-ff06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189160383566:android:b794f0799097e95836cf1f",
+        "android_client_info": {
+          "package_name": "com.example.findjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189160383566-kmu6dhb7pgpb5v60ksf04u1ot9pbmkni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHKTxU5wuCoPeMnt3lfBBf9676imIRNWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189160383566-kmu6dhb7pgpb5v60ksf04u1ot9pbmkni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
