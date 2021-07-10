@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/home"/>
+    <item android:id="@+id/studentLogin"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/login_as_student"/>
+    <item android:id="@+id/partnerLogin"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/login_as_partner"/>
+    <item android:id="@+id/support"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/support"/>
+    <item android:id="@+id/aboutUs"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/about_us"/>
+    <item android:id="@+id/logout"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/logout"/>
+</menu>

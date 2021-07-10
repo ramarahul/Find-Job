@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">FindJob</string>
     <string name="add_to_list">Add To List</string>
+    <string name="profile">Profile</string>
+    <string name="login_as_partner">Login as Partner</string>
+    <string name="login_as_student">Login as Student</string>
+    <string name="about_us">About Us</string>
+    <string name="support">Support</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
 
     <string-array name="test_list">
         <item>qwertyuiop</item>
