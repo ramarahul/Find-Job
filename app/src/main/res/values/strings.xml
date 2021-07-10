@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FindJob</string>
+    <string name="add_to_list">Add To List</string>
+
+    <string-array name="test_list">
+        <item>qwertyuiop</item>
+        <item>asdghjkl</item>
+        <item>1234567</item>
+        <item>jdadhajdad</item>
+        <item>ffssjsfsf</item>
+        <item>oqiqijsnc</item>
+        <item>isjsiskaoand</item>
+        <item>jydndkish</item>
+    </string-array>
+
+    <string-array name="test_description">
+        <item>This is test description</item>
+        <item>This is test description</item>
+        <item>This is test description</item>
+        <item>This is test description</item>
+        <item>This is test description</item>
+        <item>This is test description</item>
+        <item>This is test description</item>
+        <item>This is test description</item>
+
+    </string-array>
+
+</resources>
