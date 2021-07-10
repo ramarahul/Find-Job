@@ -17,6 +17,9 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.KeyEvent;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
@@ -249,4 +252,15 @@ public class LoginActivity extends AppCompatActivity {
                 });
         // [END sign_in_with_email]
     }
+
+    public void logout() {
+        Toast.makeText(LoginActivity.this, "LoggedOut",
+                Toast.LENGTH_SHORT).show();
+        mAuth.signOut();
+        System.out.println("in logout");
+        Intent intent = new Intent(this, LoginActivity.class);
+        this.startActivity(intent);
+    }
+
+
 }
