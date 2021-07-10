@@ -53,8 +53,8 @@ public class MainActivity extends AppCompatActivity {
         NavigationView navigationView = findViewById(R.id.navigation_view);
         navigationView.setItemIconTintList(null);
 
-        NavController navController = Navigation.findNavController(this,R.id.navHostFragment);
-        NavigationUI.setupWithNavController(navigationView,navController);
+//        NavController navController = Navigation.findNavController(this,R.id.navHostFragment);
+//        NavigationUI.setupWithNavController(navigationView,navController);
 
 //        TextView textTitle = findViewById(R.id.textView);
 //        navController.addOnDestinationChangedListener(new NavController.OnDestinationChangedListener() {
